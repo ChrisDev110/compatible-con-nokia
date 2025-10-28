@@ -1,5 +1,5 @@
 var canvas = document.createElement("canvas")
-canvas.style = "position: absolute; left: 0; top: 0; background-color: cornflowerblue;"
+canvas.style = "position: absolute; left: 0; top: 0; background-color: #6495ed;"
 document.body.appendChild(canvas)
 var ctx = canvas.getContext("2d")
 var _scale = 0
