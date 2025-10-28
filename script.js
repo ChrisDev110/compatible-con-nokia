@@ -1,5 +1,4 @@
 var canvas = document.getElementById("canvas")
-document.body.appendChild(canvas)
 var ctx = canvas.getContext("2d")
 var _scale = 0
 
